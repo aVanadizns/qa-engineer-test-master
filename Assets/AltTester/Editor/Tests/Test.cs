@@ -20,6 +20,7 @@ public class Test
 
 
     [Test]
+    // Test if buttos ir reachable 
     public void TestIfButtonExist()
     {
         altDriver.LoadScene("SampleScene");
@@ -29,6 +30,7 @@ public class Test
     }
 
     [Test]
+    // Test if button presses 
     public void TestButtonPress()
     {
         altDriver.LoadScene("SampleScene");
@@ -44,6 +46,7 @@ public class Test
     }
 
     [Test]
+    // Test button presses and if counter count it 
     public void TestButtonCountOnPress()
     {
         altDriver.LoadScene("SampleScene");
