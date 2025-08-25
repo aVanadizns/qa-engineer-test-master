@@ -31,7 +31,7 @@ MonoBehaviour:
     _testDuration: 0
     path: 
     _testSelectedCount: 0
-  - _selected: 1
+  - _selected: 0
     _testName: C:/Users/Slieka/Desktop/qa-engineer-test-master/Library/ScriptAssemblies/AltTester.AltTesterUnitySDK.Editor.dll
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
@@ -39,13 +39,13 @@ MonoBehaviour:
     _type: NUnit.Framework.Internal.TestAssembly
     _parentName: 
     _testCaseCount: 3
-    _foldOut: 0
+    _foldOut: 1
     _testResultMessage: 
     _testStackTrace: 
     _testDuration: 0
     path: 
-    _testSelectedCount: 3
-  - _selected: 1
+    _testSelectedCount: 0
+  - _selected: 0
     _testName: Test
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
@@ -53,13 +53,13 @@ MonoBehaviour:
     _type: NUnit.Framework.Internal.TestFixture
     _parentName: C:/Users/Slieka/Desktop/qa-engineer-test-master/Library/ScriptAssemblies/AltTester.AltTesterUnitySDK.Editor.dll
     _testCaseCount: 3
-    _foldOut: 0
+    _foldOut: 1
     _testResultMessage: 
     _testStackTrace: 
     _testDuration: 0
     path: 
-    _testSelectedCount: 3
-  - _selected: 1
+    _testSelectedCount: 0
+  - _selected: 0
     _testName: Test.TestButtonCountOnPress
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
@@ -67,13 +67,13 @@ MonoBehaviour:
     _type: NUnit.Framework.Internal.TestMethod
     _parentName: Test
     _testCaseCount: 1
-    _foldOut: 0
+    _foldOut: 1
     _testResultMessage: 
     _testStackTrace: 
     _testDuration: 0
     path: Assets/AltTester
     _testSelectedCount: 0
-  - _selected: 1
+  - _selected: 0
     _testName: Test.TestButtonPress
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
@@ -81,13 +81,13 @@ MonoBehaviour:
     _type: NUnit.Framework.Internal.TestMethod
     _parentName: Test
     _testCaseCount: 1
-    _foldOut: 0
+    _foldOut: 1
     _testResultMessage: 
     _testStackTrace: 
     _testDuration: 0
     path: Assets/AltTester
     _testSelectedCount: 0
-  - _selected: 1
+  - _selected: 0
     _testName: Test.TestIfButtonExist
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
@@ -95,7 +95,7 @@ MonoBehaviour:
     _type: NUnit.Framework.Internal.TestMethod
     _parentName: Test
     _testCaseCount: 1
-    _foldOut: 0
+    _foldOut: 1
     _testResultMessage: 
     _testStackTrace: 
     _testDuration: 0
@@ -160,7 +160,7 @@ MonoBehaviour:
   Scenes: []
   platform: 2
   StandaloneTarget: 5
-  RanInEditor: 1
+  RanInEditor: 0
   ScenePathDisplayed: 0
   BuildLocationPath: 
   createXMLReport: 0
