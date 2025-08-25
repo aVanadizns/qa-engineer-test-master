@@ -31,7 +31,7 @@ MonoBehaviour:
     _testDuration: 0
     path: 
     _testSelectedCount: 0
-  - _selected: 0
+  - _selected: 1
     _testName: C:/Users/Slieka/Desktop/qa-engineer-test-master/Library/ScriptAssemblies/AltTester.AltTesterUnitySDK.Editor.dll
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
@@ -44,8 +44,8 @@ MonoBehaviour:
     _testStackTrace: 
     _testDuration: 0
     path: 
-    _testSelectedCount: 0
-  - _selected: 0
+    _testSelectedCount: 3
+  - _selected: 1
     _testName: Test
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
@@ -58,8 +58,8 @@ MonoBehaviour:
     _testStackTrace: 
     _testDuration: 0
     path: 
-    _testSelectedCount: 0
-  - _selected: 0
+    _testSelectedCount: 3
+  - _selected: 1
     _testName: Test.TestButtonCountOnPress
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
@@ -73,7 +73,7 @@ MonoBehaviour:
     _testDuration: 0
     path: Assets/AltTester
     _testSelectedCount: 0
-  - _selected: 0
+  - _selected: 1
     _testName: Test.TestButtonPress
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
@@ -87,7 +87,7 @@ MonoBehaviour:
     _testDuration: 0
     path: Assets/AltTester
     _testSelectedCount: 0
-  - _selected: 0
+  - _selected: 1
     _testName: Test.TestIfButtonExist
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
@@ -160,7 +160,7 @@ MonoBehaviour:
   Scenes: []
   platform: 2
   StandaloneTarget: 5
-  RanInEditor: 0
+  RanInEditor: 1
   ScenePathDisplayed: 0
   BuildLocationPath: 
   createXMLReport: 0
